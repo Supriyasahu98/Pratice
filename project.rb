@@ -8,3 +8,4 @@ else
 	if thirsty="yes"
 
 puts("drink water")
+puts("drink soda")
